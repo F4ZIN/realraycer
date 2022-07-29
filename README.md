@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realraycer
 - 👀 I’m interested in Games, and game development.
 - 🌱 I’m currently learning game development, c++, and computer network programming.
-- 💞️ I’m looking to collaborate on people who share the same interests as me.
+- 💞️ I’m looking to collaborate on a game i'm working on, Pick A Color!
 - 📫 How to reach me.
 <!---
 
